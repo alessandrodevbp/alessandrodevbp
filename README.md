@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Alessandro</h1>
 
 <p align="center">
-💻 Data Analytics | Python | Power BI | Front-End <br>
+💻 Data Analytics | Python | Power BI | Front-End | AWS IA + No Code<br>
 📊 Transformando dados em insights e dashboards interativos <br>
 🚀 Em evolução constante na área de tecnologia
 </p>
