@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Alessandro</h1>
 
-<!--
-**alessandrodevbp/alessandrodevbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Data Analytics | Python | Power BI | Front-End <br>
+📊 Transformando dados em insights e dashboards interativos <br>
+🚀 Em evolução constante na área de tecnologia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+## 📊 Ferramentas
+- Power BI  
+- Excel / Google Sheets  
+- Pandas (em aprendizado)
+
+## 📌 Objetivo
+Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
+
+## 📈 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight" />
+</p>
+
+## 📫 Contato
+- LinkedIn: (coloque aqui)
+- Email: (opcional)
