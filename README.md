@@ -10,11 +10,11 @@
 
 ## 🚀 Tecnologias
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python, power bi, js,html,css" />
 </p>
 
 ## 📊 Ferramentas
-- Power BI  
+- Power BI (em aprendizado)
 - Excel / Google Sheets  
 - Pandas (em aprendizado)
 
@@ -27,5 +27,5 @@ Atuar com análise de dados e desenvolver soluções baseadas em dados com impac
 </p>
 
 ## 📫 Contato
-- LinkedIn: (coloque aqui)
-- Email: (opcional)
+- LinkedIn: https://www.linkedin.com/in/alessandro-prudente-519b291b3/
+- Email: alessandrobp.devpro@hotmail.com
