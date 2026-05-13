@@ -29,4 +29,4 @@ Atuar com análise de dados e desenvolver soluções baseadas em dados com impac
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/alessandro-prudente-519b291b3/
 - Email: alessandrobp.devpro@hotmail.com
-- Wattsapp: (79)9812-65487
+- Wattsapp: (79) 98126-5487
