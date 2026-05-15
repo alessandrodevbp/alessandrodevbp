@@ -24,7 +24,7 @@ Atuar com análise de dados e desenvolver soluções baseadas em dados com impac
 
 ## 📈 GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight" /img>
 </p>
 
 ## 📫 Contato
