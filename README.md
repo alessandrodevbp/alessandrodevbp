@@ -10,14 +10,15 @@
 
 ## 🚀 Tecnologias
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,n8n" />
 </p>
 
 ## 📊 Ferramentas
-- Power BI (em aprendizado)
-- Excel / Google Sheets  
+- Excel / Google Sheets 
+- Power BI (em aprendizado) 
 - Pandas (em aprendizado)
 - AWS (em parendizado)
+- N8N (em parendizado)
 ## 📌 Objetivo
 Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
 
