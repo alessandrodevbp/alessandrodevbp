@@ -15,10 +15,11 @@
 
 ## 📊 Ferramentas
 - Excel / Google Sheets 
-- Power BI (em aprendizado) 
+- Power BI (em aprendizado)
+- SQL(em aprendizado)
 - Pandas (em aprendizado)
-- AWS (em parendizado)
-- N8N (em parendizado)
+- AWS (em aprendizado)
+- N8N (em aprendizado)
 ## 📌 Objetivo
 Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
 
