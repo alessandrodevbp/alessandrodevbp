@@ -16,7 +16,7 @@
 ## 📊 Ferramentas
 - Excel / Google Sheets 
 - Power BI (em aprendizado)
-- SQL(em aprendizado)
+- SQL (em aprendizado)
 - Pandas (em aprendizado)
 - AWS (em aprendizado)
 - N8N (em aprendizado)
