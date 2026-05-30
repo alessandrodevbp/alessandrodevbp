@@ -25,10 +25,9 @@ Atuar com análise de dados e desenvolver soluções baseadas em dados com impac
 
 ## 📈 GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight" />
+<img src="[https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight](https://github.com/alessandrodevbp?tab=overview&from=2026-05-01&to=2026-05-30)" />
 </p>
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/alessandro-prudente-519b291b3/
 - Email: alessandrobp.devpro@hotmail.com
-- Wattsapp: (79) 98126-5487
