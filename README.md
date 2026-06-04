@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Alessandro</h1>
 
 <p align="center">
-💻 Data Analytics | Python | Front-End | Javascript <br>
+💻 Data Analytics | Python | SQL | Power BI | N8N | AWS <br>
+:toolbox: Html | Css | JavaScript <br>
 📊 Transformando dados em insights e dashboards interativos <br>
 🚀 Em evolução constante na área de tecnologia
 </p>
@@ -10,23 +11,23 @@
 
 ## 🚀 Tecnologias
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,n8n" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,n8n, sql,powerbi" />
 </p>
 
 ## 📊 Ferramentas
-- Excel / Google Sheets 
-- Power BI (em aprendizado)
-- SQL (em aprendizado)
-- Pandas (em aprendizado)
-- AWS (em aprendizado)
-- N8N (em aprendizado)
+- Python
+- SQL 
+- Power BI
+- N8N
+- AWS
+- Html
+- Css
+- Javascript
 ## 📌 Objetivo
 Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
 
 ## 📈 GitHub Stats
-<p>
-<img src="[https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight](https://github.com/alessandrodevbp?tab=overview&from=2026-05-01&to=2026-05-30)" />
-</p>
+
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/alessandro-prudente-519b291b3/
