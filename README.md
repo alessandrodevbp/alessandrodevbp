@@ -2,8 +2,8 @@
 
 <p align="center">
 💻 Data Analytics | Python | SQL | Power BI | N8N | AWS <br>
-:toolbox: Html | Css | JavaScript <br>
 📊 Transformando dados em insights e dashboards interativos <br>
+🧰 HTML | CSS | Javascript <br>
 🚀 Em evolução constante na área de tecnologia
 </p>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Tecnologias
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,n8n, sql,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,n8n,sql,powerbi" />
 </p>
 
 ## 📊 Ferramentas
