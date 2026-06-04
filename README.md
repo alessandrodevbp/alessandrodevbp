@@ -12,9 +12,9 @@
 ## 🚀 Tecnologias
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,n8n,sql,powerbi" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
-</p>
 </p>
 
 ## 📊 Ferramentas
