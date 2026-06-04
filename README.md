@@ -11,10 +11,7 @@
 
 ## 🚀 Tecnologias
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,n8n,sql,powerbi" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,n8n,sql,powerbi,AWS-Dark" />
 </p>
 
 ## 📊 Ferramentas
@@ -23,8 +20,8 @@
 - Power BI
 - N8N
 - AWS
-- Html
-- Css
+- HTML
+- CSS
 - Javascript
 ## 📌 Objetivo
 Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
