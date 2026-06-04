@@ -12,6 +12,7 @@
 ## 🚀 Tecnologias
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,n8n,sql,powerbi" />
+![Power BI](https://shields.io)
 </p>
 
 ## 📊 Ferramentas
