@@ -22,21 +22,20 @@ Busco oportunidades de estágio e desenvolvimento profissional que me permitam a
 
 <img 
     align="left" 
-    alt="Sqllite" 
-    title="Sqllite"
-    width="35px" 
+    alt="Sql" 
+    title="Sql"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"  
-/>
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+ />          
 
 <img 
     align="left" 
-    alt="Sqllite" 
-    title="Sqllite"
+    alt="Powerbi" 
+    title="Powerbi"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"     
+    src="https://github.com/user-attachments/assets/ae1f96a1-a25e-422e-b175-42b6047a69ce"   
 />
 
 <img 
