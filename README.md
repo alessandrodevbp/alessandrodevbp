@@ -52,7 +52,7 @@ Busco oportunidades de estágio e desenvolvimento profissional que me permitam a
     align="left" 
     alt="Aws" 
     title="Aws"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"          
 />
@@ -105,7 +105,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
     align="left" 
     alt="VScode" 
     title="VScode"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/4f63f9dd-6fc8-4634-aadb-3dbcba21cec8"
 />    
