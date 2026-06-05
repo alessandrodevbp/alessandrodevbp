@@ -101,7 +101,14 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"      
 />
-
+<img 
+    align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="35px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/4f63f9dd-6fc8-4634-aadb-3dbcba21cec8"
+/>    
 
 <br/>
 <br/>
