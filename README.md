@@ -47,6 +47,7 @@ Busco oportunidades de estágio e desenvolvimento profissional que me permitam a
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"    
 />
 
+
 <img 
     align="left" 
     alt="Aws" 
@@ -54,6 +55,15 @@ Busco oportunidades de estágio e desenvolvimento profissional que me permitam a
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"          
+/>
+
+<img 
+    align="left" 
+    alt="N8n" 
+    title="N8n"
+    width="27px" 
+    style="padding-right: 10px;" 
+src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65cc15"
 />
 
 <img 
@@ -86,7 +96,7 @@ Busco oportunidades de estágio e desenvolvimento profissional que me permitam a
 <img 
     align="left" 
     alt="VScode" 
-    title="VScoder"
+    title="VScode"
     width="27px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"      
