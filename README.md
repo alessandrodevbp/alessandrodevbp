@@ -135,13 +135,27 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 ## 📌 Objetivo
 Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
 
-## 📈 GitHub Stats
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alessandrodevbp&theme=tokyonight" />
+</div>
+
+## 💻 Linguagens Mais Utilizadas
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alessandrodevbp&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alessandrodevbp&theme=tokyonight" />
+</div>
+
+## 🔥 Consistência de Contribuições
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alessandrodevbp&theme=tokyonight"/>
 </div>
 
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -151,11 +165,7 @@ Atuar com análise de dados e desenvolver soluções baseadas em dados com impac
 
 </div>
 
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alessandrodevbp&theme=tokyonight" />
-</div>
-
+## 🐍 Atividade no GitHub
 
 <p align="center">
   <picture>
@@ -173,5 +183,7 @@ Atuar com análise de dados e desenvolver soluções baseadas em dados com impac
     />
   </picture>
 </p>
+
+
 
 
