@@ -9,7 +9,7 @@ Busco oportunidades de estágio e desenvolvimento profissional que me permitam a
 ---
 
 
-## 🚀 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
