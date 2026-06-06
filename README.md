@@ -137,15 +137,25 @@ Atuar com análise de dados e desenvolver soluções baseadas em dados com impac
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrodevbp&layout=compact&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alessandrodevbp&theme=tokyonight"/>
 </div>
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alessandrodevbp&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alessandrodevbp&theme=tokyonight&utcOffset=-3" />
+
+</div>
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alessandrodevbp&theme=tokyonight" />
+</div>
+
 
 <p align="center">
   <picture>
