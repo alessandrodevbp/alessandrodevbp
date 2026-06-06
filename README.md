@@ -15,7 +15,7 @@ Busco oportunidades de estágio e desenvolvimento profissional que me permitam a
   /> 
 </a>
 
-<a href="alessandrobp.devpro@gmail.com">
+<a href="mailto:alessandrobp.devpro@gmail.com">
   <img
     alt="Gmail"
     title="Enviar e-mail"
@@ -136,8 +136,14 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
 
 ## 📈 GitHub Stats
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrodevbp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrodevbp&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
+src="https://github.com/alessandrodevbp/alessandrodevbp/output/github-contribution-grid-snake.svg"
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/alessandro-prudente-519b291b3/
-- Email: alessandrobp.devpro@hotmail.com
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=alessandrodevbp&theme=tokyonight"/>
+</div>
+
