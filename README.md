@@ -132,10 +132,6 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 <br/>
 
 
-## 📌 Objetivo
-Atuar com análise de dados e desenvolver soluções baseadas em dados com impacto real.
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
