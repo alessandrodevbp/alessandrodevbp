@@ -7,7 +7,7 @@ Olá, Me chamo Alessandro Batista Prudente, tenho 39 anos e atualmente curso An�
 Busco oportunidades de estágio e desenvolvimento profissional que me permitam aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos inovadores, mantendo uma evolução contínua por meio do aprendizado e da prática.
 
 
-<a href="https://www.linkedin.com/in/alessandro-prudente-519b291b3">
+<a href="https://www.linkedin.com/in/alessandro-prudente">
   <img
     alt="LinkedIn"
     title="Conecte-se comigo no LinkedIn"
