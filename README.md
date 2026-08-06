@@ -121,8 +121,8 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 />
 <img 
     align="left" 
-    alt="VScode" 
-    title="VScode"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/4f63f9dd-6fc8-4634-aadb-3dbcba21cec8"
