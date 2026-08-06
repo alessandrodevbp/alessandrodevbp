@@ -135,7 +135,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alessandrodevbp&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alessandrodevbp&theme=tokyonight" />
 </div>
 
 ## 💻 Linguagens Mais Utilizadas
