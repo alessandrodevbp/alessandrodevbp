@@ -4,7 +4,7 @@
 ***Analista de Dados***
 
 Olá, Me chamo Alessandro Batista Prudente, tenho 39 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Tenho interesse nas áreas de Análise de Dados, Automação de Processos e Cloud Computing.
-Busco oportunidades de estágio e desenvolvimento profissional que me permitam aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos inovadores, mantendo uma evolução contínua por meio do aprendizado e da prática.
+Busco oportunidades de estágio ou posições júnior que me permitam aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos inovadores. Tenho como objetivo evoluir continuamente por meio do aprendizado, da prática e do desenvolvimento de novas habilidades.
 
 ---
 
