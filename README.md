@@ -113,7 +113,15 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 <br/>
 <br/>
 
-## ☁️ AWS Cloud — Laboratórios Práticos
+---
+
+   <img 
+    align="center" 
+    alt="Aws" 
+    title="Aws"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/><strong> Laboratórios Práticos</strong>
 
 | Laboratório | Principais serviços/conceitos | Status |
 |---|---|---|
