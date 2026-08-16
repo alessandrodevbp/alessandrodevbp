@@ -160,7 +160,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
         para gerar insights e apoiar a tomada de decisões.
       </p>
       <p>
-        <strong>🛠️ Tecnologias:</strong> Python · Pandas · Matplotlib · Seaborn
+        <strong>🛠️ Tecnologias:</strong> Python · Pandas · Jupyter Notebook · Plotly
       </p>
       <a href="https://github.com/alessandrodevbp/Analise_Dados_Cancelamentos_Py" target="_blank">
         🔗 Ver projeto
