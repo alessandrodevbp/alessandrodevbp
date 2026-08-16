@@ -135,12 +135,29 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 <table>
   <tr>
     <td width="50%">
+      <h3>☁️ AWS Cloud — Laboratórios Práticos</h3>
+      <p>
+        Formação prática em AWS Cloud, com atividades e laboratórios frequentes
+        envolvendo EC2, VPC, IAM, S3, RDS, Lambda, EBS, CloudWatch,
+        CloudFormation, Route 53, ELB, CloudTrail, SageMaker e outros serviços,
+        aplicando conceitos de Cloud Computing, segurança, armazenamento,
+        bancos de dados, serverless, monitoramento e infraestrutura.
+      </p>
+      <p>
+        <strong>🛠️ Tecnologias:</strong> AWS · Cloud Computing · Serverless
+      </p>
+      <p>
+        🧪 <strong>Status:</strong> Atividade contínua com laboratórios práticos
+        e exercícios hands-on.
+      </p>
+    </td>
+   <td width="50%">
       <h3>📊 Análise de Cancelamentos</h3>
       <p>
-        Projeto de análise de dados desenvolvido para identificar os principais 
-       fatores e indicadores relacionados ao cancelamento de clientes, utilizando 
-       técnicas de exploração, tratamento e visualização de dados para gerar insights 
-       e apoiar a tomada de decisões.
+        Projeto de análise de dados desenvolvido para identificar os principais
+        fatores e indicadores relacionados ao cancelamento de clientes,
+        utilizando técnicas de exploração, tratamento e visualização de dados
+        para gerar insights e apoiar a tomada de decisões.
       </p>
       <p>
         <strong>🛠️ Tecnologias:</strong> Python · Pandas · Matplotlib · Seaborn
@@ -155,7 +172,10 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
     <td width="50%">
       <h3>🎬 Projeto Streaming</h3>
       <p>
-        Aplicação front-end inspirada em plataformas de streaming, desenvolvida para simular uma experiência de navegação personalizada. O projeto conta com seleção de perfis, organização do catálogo por categorias e exibição de conteúdos de acordo com o perfil selecionado.
+        Aplicação front-end inspirada em plataformas de streaming, desenvolvida
+        para simular uma experiência de navegação personalizada. O projeto conta
+        com seleção de perfis, organização do catálogo por categorias e exibição
+        de conteúdos de acordo com o perfil selecionado.
       </p>
       <p>
         <strong>🛠️ Tecnologias:</strong> HTML · CSS · JavaScript
@@ -165,15 +185,18 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
       </a>
     </td>
     <td width="50%">
-      <h3>🤖 Chatbot IA para Restaurante </h3>
+      <h3>🤖 Chatbot IA para Restaurante</h3>
       <p>
-        Projeto de automação desenvolvido com <strong>N8N, IA e JavaScript</strong>, simulando um chatbot para atendimento de um restaurante fictício. O fluxo utiliza <strong>Google Sheets</strong> para armazenar e consultar dados, automatizando processos como atendimento, consulta de informações e gerenciamento de pedidos.
+        Projeto de automação desenvolvido com <strong>n8n, IA e JavaScript</strong>,
+        simulando um chatbot para atendimento de um restaurante fictício.
+        O fluxo utiliza <strong>Google Sheets</strong> para armazenar e consultar
+        dados, automatizando processos de atendimento e gerenciamento de pedidos.
       </p>
       <p>
-        <strong>🛠️ Tecnologias:</strong> N8N · IA · JavaScript · Google Sheets · Low-Code · Automação de Processos
+        <strong>🛠️ Tecnologias:</strong> n8n · IA · JavaScript · Google Sheets · Low-Code
       </p>
       <a href="https://github.com/alessandrodevbp/Automacao_N8N_Chat_Bot_IA" target="_blank">
-        🔗 Ver projetos
+        🔗 Ver projeto
       </a>
     </td>
   </tr>
