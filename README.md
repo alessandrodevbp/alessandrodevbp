@@ -137,7 +137,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
       <p>
         <strong>🛠️ Tecnologias:</strong> Python · Pandas · Matplotlib · Seaborn
       </p>
-      <a href="SEU_LINK_ANALISE" target="_blank">
+      <a href="https://github.com/alessandrodevbp/Analise_Dados_Cancelamentos_Py" target="_blank">
         🔗 Ver projeto
       </a>
     </td>
@@ -152,7 +152,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
       <p>
         <strong>🛠️ Tecnologias:</strong> HTML · CSS · JavaScript
       </p>
-      <a href="SEU_LINK_STREAMING" target="_blank">
+      <a href="https://github.com/alessandrodevbp/Front-End-Project" target="_blank">
         🔗 Ver projeto
       </a>
     </td>
@@ -164,7 +164,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
       <p>
         <strong>🛠️ Tecnologias:</strong> N8N · IA · JavaScript · Google Sheets · Low-Code · Automação de Processos
       </p>
-      <a href="SEU_LINK_DADOS" target="_blank">
+      <a href="https://github.com/alessandrodevbp/Automacao_N8N_Chat_Bot_IA" target="_blank">
         🔗 Ver projetos
       </a>
     </td>
