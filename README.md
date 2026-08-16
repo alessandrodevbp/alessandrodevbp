@@ -117,14 +117,59 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 
 | Laboratório | Principais serviços/conceitos | Status |
 |---|---|---|
-| 🚀 [Amazon EC2](LINK) | EC2, EBS, CloudWatch, Security Groups, User Data | ✅ Concluído |
-| 🌐 [Amazon VPC](LINK) | VPC, Subnets, Networking | ✅ Concluído |
+| 🚀 [Amazon EC2](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorio_Amazon-EC2) | EC2, EBS, CloudWatch, Security Groups, User Data | ✅ Concluído |
+| 🌐 [Amazon VPC](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorio_Amazon-VPC) | VPC, Subnets, Networking | ✅ Concluído |
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-[seus projetos...]
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Análise de Cancelamentos</h3>
+      <p>
+        Projeto de análise de dados desenvolvido para identificar os principais 
+       fatores e indicadores relacionados ao cancelamento de clientes, utilizando 
+       técnicas de exploração, tratamento e visualização de dados para gerar insights 
+       e apoiar a tomada de decisões.
+      </p>
+      <p>
+        <strong>🛠️ Tecnologias:</strong> Python · Pandas · Matplotlib · Seaborn
+      </p>
+      <a href="SEU_LINK_ANALISE" target="_blank">
+        🔗 Ver projeto
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🎬 Projeto Streaming</h3>
+      <p>
+        Aplicação front-end inspirada em plataformas de streaming, desenvolvida para simular uma experiência de navegação personalizada. O projeto conta com seleção de perfis, organização do catálogo por categorias e exibição de conteúdos de acordo com o perfil selecionado.
+      </p>
+      <p>
+        <strong>🛠️ Tecnologias:</strong> HTML · CSS · JavaScript
+      </p>
+      <a href="SEU_LINK_STREAMING" target="_blank">
+        🔗 Ver projeto
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🤖 Chatbot IA para Restaurante </h3>
+      <p>
+        Projeto de automação desenvolvido com <strong>N8N, IA e JavaScript</strong>, simulando um chatbot para atendimento de um restaurante fictício. O fluxo utiliza <strong>Google Sheets</strong> para armazenar e consultar dados, automatizando processos como atendimento, consulta de informações e gerenciamento de pedidos.
+      </p>
+      <p>
+        <strong>🛠️ Tecnologias:</strong> N8N · IA · JavaScript · Google Sheets · Low-Code · Automação de Processos
+      </p>
+      <a href="SEU_LINK_DADOS" target="_blank">
+        🔗 Ver projetos
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Analytics
@@ -175,20 +220,24 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
   </picture>
 </p>
 
-## 📫 Contato
-
+## 📫 Contatos
+<div>
 <a href="https://www.linkedin.com/in/alessandro-prudente">
   <img
     alt="LinkedIn"
     title="Conecte-se comigo no LinkedIn"
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"
-  /> 
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/>
+</div>
+<div>
 </a>
-  •
   <a href="https://github.com/alessandrodevbp">
-    GitHub
-  </a>
-  •
+  <img 
+    alt="GitHub"
+    title="Visualize meus projetos no GitHub"
+    src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</div>
+<div>
 <a href="mailto:alessandrobp.devpro@gmail.com">
   <img
     alt="Gmail"
@@ -196,7 +245,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
     src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-
+</div>
 <p align="center">
   <sub>© 2026 Alessandro Batista Prudente • Todos os direitos reservados.</sub>
 </p>
