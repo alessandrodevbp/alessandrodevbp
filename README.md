@@ -6,24 +6,6 @@
 Olá, Me chamo Alessandro Batista Prudente, tenho 39 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Tenho interesse nas áreas de Análise de Dados, Automação de Processos e Cloud Computing.
 Busco oportunidades de estágio e desenvolvimento profissional que me permitam aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos inovadores, mantendo uma evolução contínua por meio do aprendizado e da prática.
 
-<a href="https://www.linkedin.com/in/alessandro-prudente">
-  <img
-    alt="LinkedIn"
-    title="Conecte-se comigo no LinkedIn"
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"
-  /> 
-</a>
-
-<a href="mailto:alessandrobp.devpro@gmail.com">
-  <img
-    alt="Gmail"
-    title="Enviar e-mail"
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-
-
-
 ---
 
 
@@ -131,6 +113,19 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 <br/>
 <br/>
 
+## ☁️ AWS Cloud — Laboratórios Práticos
+
+| Laboratório | Principais serviços/conceitos | Status |
+|---|---|---|
+| 🚀 [Amazon EC2](LINK) | EC2, EBS, CloudWatch, Security Groups, User Data | ✅ Concluído |
+| 🌐 [Amazon VPC](LINK) | VPC, Subnets, Networking | ✅ Concluído |
+
+---
+
+## 🚀 Projetos em Destaque
+
+[seus projetos...]
+
 
 ## 📊 GitHub Analytics
 
@@ -179,6 +174,33 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
     />
   </picture>
 </p>
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/alessandro-prudente">
+  <img
+    alt="LinkedIn"
+    title="Conecte-se comigo no LinkedIn"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"
+  /> 
+</a>
+  •
+  <a href="https://github.com/alessandrodevbp">
+    GitHub
+  </a>
+  •
+<a href="mailto:alessandrobp.devpro@gmail.com">
+  <img
+    alt="Gmail"
+    title="Enviar e-mail"
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+
+<p align="center">
+  <sub>© 2026 Alessandro Batista Prudente • Todos os direitos reservados.</sub>
+</p>
+
 
 
 
