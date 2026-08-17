@@ -272,7 +272,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 <a href="mailto:alessandrobp.devpro@gmail.com">
   <img
     alt="Gmail"
-    title="Enviar e-mail"
+    title="Me envie um e-mail"
     src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
