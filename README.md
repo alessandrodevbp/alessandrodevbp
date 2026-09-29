@@ -131,7 +131,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 |  [AWS Systems Manager](https://github.com/alessandrodevbp) | # | 🚀 Próximo Laboratório |
 |  [Criar um site no S3](https://github.com/alessandrodevbp) | # | 🚀 Próximo Laboratório |
 |  [Criando instâncias do Amazon EC2](https://github.com/alessandrodevbp) | # | 🚀 Próximo Laboratório |
-|  [[Desafio] Exercício de instância do EC2](https://github.com/alessandrodevbp) | # | 🚀 Próximo Laboratório |
+|  [Solucionar problemas com a criação de uma instância do EC2](https://github.com/alessandrodevbp) | # | 🚀 Próximo Laboratório |
 
 ---
 
