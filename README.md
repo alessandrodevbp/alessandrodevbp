@@ -127,7 +127,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 |---|---|---|
 | 🚀 [Amazon EC2](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorio_Amazon-EC2) | EC2 • EBS • CloudWatch • Security Groups • User Data | ✅ Concluído |
 | 🌐 [Amazon VPC](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorio_Amazon-VPC) | VPC • Subnets • Route Tables • Internet Gateway • NAT Gateway • Security Groups | ✅ Concluído |
-| 👥 [Amazon IAM](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorios_Amazon-IAM/blob/main/README.md) | Gerenciamento de Acesso | ✅ Concluído |
+| 👥 [Amazon IAM](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorios_Amazon-IAM/blob/main/README.md) | Gerenciamento de AcessoAWS IAM • IAM Users • IAM Groups • IAM Policies • Password Policy • Amazon S3 • Amazon EC2 • Managed Policies • Inline Policies • Permissions | ✅ Concluído |
 | 📦 [Amazon S3](https://github.com/alessandrodevbp) | Armazenamento | 🚀 Próximo Laboratório |
 ---
 
