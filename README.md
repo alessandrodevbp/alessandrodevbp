@@ -126,7 +126,7 @@ src="https://github.com/user-attachments/assets/8b53923c-1d22-4257-ab49-c2cb1d65
 | Laboratório | Principais serviços/conceitos | Status |
 |---|---|---|
 |  [Introdução ao Amazon EC2](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorio_Amazon-EC2) | EBS • CloudWatch • Security Groups • User Data | ✅ Concluído |
-|  [Criar VPC e iniciar um servidor web](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorio_Amazon-VPC) | Subnets • Route Tables • Internet Gateway • NAT Gateway • Security Groups | ✅ Concluído |
+|  [Criando VPC e iniciando um servidor web](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorio_Amazon-VPC) | Subnets • Route Tables • Internet Gateway • NAT Gateway • Security Groups | ✅ Concluído |
 |  [Introdução ao AWS Identity and Access Management (IAM)](https://github.com/alessandrodevbp/AWS-Cloud-Computing-Laboratorios_Amazon-IAM/blob/main/README.md) | IAM Users • IAM Groups • IAM Policies • Permissions | ✅ Concluído |
 |  [AWS Systems Manager](https://github.com/alessandrodevbp) | # | 🚀 Próximo Laboratório |
 |  [Criando um site no S3](https://github.com/alessandrodevbp) | # | 🚀 Próximo Laboratório |
